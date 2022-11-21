@@ -91,7 +91,6 @@ int main(){
         if(kontrol==2){
             printf("tebrikler!"); 
             
-            
         }
 
 }
